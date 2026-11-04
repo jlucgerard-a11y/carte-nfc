@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:GERARD;Jean-Luc;;;
+FN:Jean-Luc GERARD
+ORG:Atonal Formation
+TITLE:Formateur indépendant
+TEL;TYPE=CELL:+33607370774
+EMAIL;TYPE=INTERNET;TYPE=HOME:jluc.gerard@gmail.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:atonal.formation@gmail.com
+ADR;TYPE=WORK:;;;Saint-Maximin-la-Sainte-Baume;;;France
+END:VCARD
